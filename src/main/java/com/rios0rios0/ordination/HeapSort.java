@@ -1,7 +1,12 @@
 package com.rios0rios0.ordination;
 
+<<<<<<< HEAD
 /**
  * ATUALIZAÇÃO 2
+=======
+/** 
+ * HEHE
+>>>>>>> rezende
  * @author Felipe Rios (rios0rios0)
  * <p>
  * Concept:
