@@ -17,7 +17,7 @@ abstract class DefaultSort implements Sort {
     void inc(int sum) {
         this.instructions += sum;
     }
-           // PROJECT START
+           // PROJECT START 2
     public void analysis(int times) {
         for (int turn = 1; turn <= times; turn++) {
             sort(Array.generateArray(5));
