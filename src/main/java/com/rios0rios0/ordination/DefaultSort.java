@@ -23,7 +23,7 @@ abstract class DefaultSort implements Sort {
             sort(Array.generateArray(5));
             addPerformance(5);
             //
-            sort(Array.generateArray(10));
+            sort(Array.generateArray(30));
             addPerformance(10);
             //
             sort(Array.generateArray(50));
