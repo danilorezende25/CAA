@@ -17,7 +17,7 @@ abstract class DefaultSort implements Sort {
     void inc(int sum) {
         this.instructions += sum;
     }
-           // mudando status
+           // PROJECT START
     public void analysis(int times) {
         for (int turn = 1; turn <= times; turn++) {
             sort(Array.generateArray(5));
@@ -59,6 +59,7 @@ abstract class DefaultSort implements Sort {
             Console.showMsg("Elements: " + retry);
             sort(Array.generateArray(retry));
             Console.showMsg("Instructions: " + getInstructions());
+           
         }
     }
 
